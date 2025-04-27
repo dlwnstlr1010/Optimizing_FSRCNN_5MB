@@ -1,0 +1,2 @@
+Best Model: d112_s80_m6
+PSNR: 30.67
